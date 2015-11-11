@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitfs SYSTEM "http://www.thesundaytimes.co.uk/sto/public/dtd/nitfs.dtd">
+<nitfs>
+	<nitf id="sto:1626538" class="sto" baselang="en-UK" uno="sto:1626538" version="-//IPTC//DTD NITF 3.4//EN">
+		<head>
+			<title type="main">Board Moves: Jes Staley signed up to run Barclays</title>
+			<meta name="publicationName" content="sto"/>
+			<meta name="type" content="standardArticle"/>
+			<meta name="lastModifiedDate" content="20151103T202020+0000"/>
+			<meta name="lastModifiedDateEpoch" content="144658202088126538"/>
+			<meta name="latestVersionDateEpoch" content="144658202088126538"/>
+			<meta name="latestVersionDate" content="20151103T202020+0000"/>
+			<tobject tobject.type="News">
+				<tobject.property tobject.property.type="feature"/>
+				<tobject.subject tobject.subject.type="Current Events" tobject.subject.ipr="sto" tobject.subject.refnum="01026003"/>
+			</tobject>
+			<docdata management-status="usable">
+				<doc-id id-string="" regsrc="sto"/>
+				<del-list>
+					<from-src src-name="News International" level-number="1"/>
+				</del-list>
+				<date.issue norm="20151110T154318+0000"/>
+				<doc.copyright year="2010" holder=""/>
+			</docdata>
+			<pubdata date.publication="20151101T000100+0000" ex-ref="http://www.thesundaytimes.co.uk/sto/public/Appointments/article1626538.ece" name="The Sunday Times" position.section="Appointments" type="web"/>
+		</head>
+		<body xml:lang="en-UK">
+			<body.head>
+				<hedline>
+					<hl1>Board Moves: Jes Staley signed up to run Barclays</hl1>
+					<hl2>Staley, who succeeds Antony Jenkins, is managing partner of Blue Mountain Capital Management</hl2>
+				</hedline>
+				<byline>
+					<person>
+						<name.given>
+							The Sunday Times 
+						</name.given>
+					</person>
+				</byline>
+				<dateline>
+					<story.date>
+						20151101T000100+0000
+					</story.date>
+				</dateline>
+			</body.head>
+			<body.content>
+				<media id="sto:1188800" media-type="image">
+					<media-metadata name="version" value="k"/>
+					<media-reference alternate-text="Jes Staley spent 30 years at JP Morgan" copyright="" mime-type="image/jpeg" height="386" width="580" name="Jes Staley spent 30 years at JP Morgan (Debra Hurford Brown/Barclays/PA)" source="http://www.thesundaytimes.co.uk/sto/multimedia/dynamic/01188/01_B01MOV_1188800k.jpg" source-credit=""/>
+					<media-caption>Jes Staley spent 30 years at JP Morgan (Debra Hurford Brown/Barclays/PA)</media-caption>
+					<media-producer>
+						<person>
+							<name.given/>
+							<function>photographer</function>
+						</person>
+						<person>
+							<name.given/>
+							<function>author</function>
+						</person>
+					</media-producer>
+				</media>
+				<customHTML>
+				</customHTML>
+				  <pre>
+            <![CDATA[
+            <p>
+            JAMES “JES” STALEY has been appointed chief executive of Barclays from next 
+            month. Staley, 58, who succeeds Antony Jenkins, is managing partner of Blue 
+            Mountain Capital Management. He worked for 30 years at JP Morgan and has 
+            served as chief executive of its investment bank since 2009.<span><br /></span>
+            ■ Sidney Taurel becomes chairman of educational publisher Pearson in January 
+            when Glen Moreno steps down. Taurel, 66, a former adviser to George W Bush, 
+            has served as chief executive and chairman of drug giant Eli Lilly.<span><br /></span>
+            ■ Elizabeth Corley has been appointed as a non-executive director at BAE 
+            Systems. Corley, 59, has been chief executive at Allianz Global Investors 
+            since 2012 and serves as a non-executive director at Pearson and the UK 
+            Financial Reporting Council.<span><br /></span>
+            ■ Jayne Styles has joined financial services company Hargreaves Lansdown as a 
+            non-executive director. Styles, 55, has been Amlin’s chief investment 
+            officer since 2002 and was previously head of international equities at 
+            Halifax Fund Management. <span><br /></span>
+            ■ Aidan Birkett has been appointed as a senior independent director at the 
+            Co-operative Bank. Birkett, 62, was chief restructuring officer of Dubai 
+            World until 2010.<span><br /></span>
+            ■ Kevin Boyd will join Spirax-Sarco Engineering as a group finance director 
+            and executive director next May. Boyd, 51, is group finance director of 
+            Oxford Instruments.<span><br /></span>
+            ■ Nathalie Rachou has been appointed as a non-executive director at the 
+            engineering company Laird. Rachou, 58, serves as a non-executive director at 
+            Société Générale, Veolia Environnement and Altran Technologies. 
+            </p>
+            ]]>
+          </pre>
+			</body.content>
+		</body>
+	</nitf>
+	</nitf>
+</nitfs>

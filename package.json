@@ -1,0 +1,18 @@
+{
+  "name": "rss-to-nitf",
+  "version": "1.0.0",
+  "description": "Converts RSS feeds to NITF feeds use XSLT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "0.10.9"
+  },
+  "author": "Ændrew Rininsland <aendrew.rininsland@thetimes.co.uk> (http://www.aendrew.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "node_xslt": "~0.1.9",
+    "pretty-data": "~0.40.0"
+  }
+}
